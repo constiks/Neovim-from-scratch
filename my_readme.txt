@@ -1,3 +1,9 @@
+fixes [2022-05-16]
+
+https://github.com/hrsh7th/nvim-cmp/issues/920
+https://github.com/LunarVim/Neovim-from-scratch/issues/124
+
+-------------------------------
 fixes [2022-05-15]
 
 https://github.com/nvim-treesitter/nvim-treesitter/issues/2886
@@ -8,4 +14,4 @@ disable/enable akinsho/bufferline and akinsho/toggleterm
 
 https://github.com/hrsh7th/nvim-cmp/discussions/911
 
-
+-------------------------------
